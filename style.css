@@ -1,16 +1,12 @@
-body{
-    background-color: lightsteelblue;
-    
-}
-h2 {
-    font-weight: bold;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: larger;
-    color: blue;
+* {
+    padding: 0%;
+    margin: 0%;
+    font-family: ;
+    box-sizing: border-box;
 }
 
-p {
-    font-size: larger;
-    font-style: oblique;
+.hero {
+    height: 100vh;
+    width: 100%;
+    background-image: url(images/istockphoto-1326304939-612x612.jpg);
 }
-
