@@ -1,0 +1,14 @@
+body{
+    background-color: lightsteelblue;
+}
+h2 {
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    color: blue;
+}
+
+p {
+    font-size: larger;
+    font-style: oblique;
+}
